@@ -1,8 +1,7 @@
 
 """
 "Enrichers" are modular functions that augment a lead dict.
-In production, you might call APIs (Clearbit, Apollo, etc.).
-Here we keep them offline-friendly and deterministic.
+In production scenario, API might be better suited.
 """
 from typing import Dict, Any, Optional
 from .utils import domain_from_email, business_email_domain
