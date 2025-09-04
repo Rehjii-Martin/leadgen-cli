@@ -22,6 +22,17 @@ Outputs:
 - `out/freshsales_import.csv` (import-ready)
 - `out/segments/*.csv`
 
+### Example Output (`freshsales_import.csv`)
+
+| First name | Last name | Email                    | Company           | Job title       | Website              | Country | Lead score | Lifecycle stage | Source     | Tags             |
+|------------|-----------|--------------------------|-------------------|-----------------|----------------------|---------|------------|-----------------|------------|-----------------|
+| Ada        | Lovelace  | ada@analyticalengine.org | Analytical Engine | Chief Scientist | analyticalengine.org | GB      | 53         | Lead            | web-scrape | EU:other:c_level |
+| Grace      | Hopper    | grace@navy.mil           | US Navy           | Director        | navy.mil             | US      | 53         | Lead            | referral   | NA:other:c_level |
+| Rick       | Sanchez   | rick@rickandmorty.com    | Citadel Labs      | VP Engineering  | rickandmorty.com     | US      | 48         | Lead            | partner    | NA:other:vp      |
+| Morty      | Smith     | morty@outlook.com        | Citadel Labs      | Intern          | rickandmorty.com     | US      | 16         | Lead            | partner    | NA:other:ic      |
+| Alan       | Turing    | turing@gmail.com         | Bletchley Park    | Researcher      | bletchley.org        | GB      | 13         | Lead            | conference | EU:other:other   |
+
+
 ## CSV Schema
 Minimum input columns (extra columns are allowed):
 - `name`, `email`, `company`, `title`, `website`, `country`, `source`
