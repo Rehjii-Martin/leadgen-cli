@@ -1,6 +1,6 @@
 
 # LeadGen CLI
-Clean, enrich, score, and segment B2B leads for CRM import (Freshsales/ActiveCampaign-like).
+Clean, enrich, score, and segment B2B leads for CRM import 
 
 ## Features
 - Email validation + de-duplication
