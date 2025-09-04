@@ -22,7 +22,7 @@ def lead_score(lead: Dict[str, Any]) -> int:
     elif s == "manager": score += 8
     elif s == "ic": score += 3
 
-    # Industry relevance bump (retail/hospitality/music/technology = closer to SoundMachine ICP)
+    # Industry relevance bump
     ind = (lead.get("industry_guess") or "").lower()
     if ind in {"retail","hospitality","music","technology"}:
         score += 7
