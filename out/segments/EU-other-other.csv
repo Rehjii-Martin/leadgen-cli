@@ -1,0 +1,2 @@
+name,email,company,title,website,country,source,first_name,last_name,email_domain,is_business_email,seniority,industry_guess,lead_score,segment
+Alan Turing,turing@gmail.com,Bletchley Park,Researcher,https://bletchley.org,GB,conference,Alan,Turing,gmail.com,False,other,other,13,EU:other:other

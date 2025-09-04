@@ -1,0 +1,2 @@
+name,email,company,title,website,country,source,first_name,last_name,email_domain,is_business_email,seniority,industry_guess,lead_score,segment
+Grace Hopper,grace@navy.mil,US Navy,Director,https://navy.mil,US,referral,Grace,Hopper,navy.mil,True,c_level,other,53,NA:other:c_level

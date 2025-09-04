@@ -1,0 +1,6 @@
+First name,Last name,Email,Company,Job title,Website,Country,Lead score,Lifecycle stage,Source,Tags
+Grace,Hopper,grace@navy.mil,US Navy,Director,https://navy.mil,US,53,Lead,referral,NA:other:c_level
+Ada,Lovelace,ada@analyticalengine.org,Analytical Engine,Chief Scientist,https://analyticalengine.org,GB,53,Lead,web-scrape,EU:other:c_level
+Rick,Sanchez,rick@rickandmorty.com,Citadel Labs,VP Engineering,https://rickandmorty.com,US,48,Lead,partner,NA:other:vp
+Morty,Smith,morty@outlook.com,Citadel Labs,Intern,https://rickandmorty.com,US,16,Lead,partner,NA:other:ic
+Alan,Turing,turing@gmail.com,Bletchley Park,Researcher,https://bletchley.org,GB,13,Lead,conference,EU:other:other

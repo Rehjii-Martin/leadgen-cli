@@ -1,0 +1,2 @@
+name,email,company,title,website,country,source,first_name,last_name,email_domain,is_business_email,seniority,industry_guess,lead_score,segment
+Rick Sanchez,rick@rickandmorty.com,Citadel Labs,VP Engineering,https://rickandmorty.com,US,partner,Rick,Sanchez,rickandmorty.com,True,vp,other,48,NA:other:vp

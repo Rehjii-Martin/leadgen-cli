@@ -1,0 +1,12 @@
+
+[project]
+name = "leadgen-cli"
+version = "0.1.0"
+description = "Clean, enrich, score, and segment B2B leads for CRM import."
+authors = [{name="Rehjii Martin"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["pandas>=2.0.0"]
+
+[project.scripts]
+leadgen = "leadgen_cli.cli:main"

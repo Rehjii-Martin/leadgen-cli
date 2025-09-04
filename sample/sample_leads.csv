@@ -1,0 +1,8 @@
+
+name,email,company,title,website,country,source
+Ada Lovelace,ada@analyticalengine.org,Analytical Engine,Chief Scientist,https://analyticalengine.org,GB,web-scrape
+Alan Turing,turing@gmail.com,Bletchley Park,Researcher,https://bletchley.org,GB,conference
+Grace Hopper,grace@navy.mil,US Navy,Director,https://navy.mil,US,referral
+Rick Sanchez,rick@rickandmorty.com,Citadel Labs,VP Engineering,https://rickandmorty.com,US,partner
+Morty Smith,morty@outlook.com,Citadel Labs,Intern,https://rickandmorty.com,US,partner
+Bad Email,not-an-email,Broken Co,,http://broken.example,US,list-buy

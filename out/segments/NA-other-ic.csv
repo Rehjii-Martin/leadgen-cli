@@ -1,0 +1,2 @@
+name,email,company,title,website,country,source,first_name,last_name,email_domain,is_business_email,seniority,industry_guess,lead_score,segment
+Morty Smith,morty@outlook.com,Citadel Labs,Intern,https://rickandmorty.com,US,partner,Morty,Smith,outlook.com,False,ic,other,16,NA:other:ic
